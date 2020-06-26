@@ -1,2 +1,1 @@
-# GithubRepo1
-Repo1Test1
+This is 3rd file.Previous one got conflict
